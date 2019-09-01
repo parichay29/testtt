@@ -8,6 +8,7 @@ int main()
     int d=0;
     int g=0;
     int h=9;
+    int j=5;
 //hi
     return 0;
 
