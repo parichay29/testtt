@@ -7,6 +7,8 @@ int main()
     int c=6;
     int d=0;
     int g=0;
+    int h=9;
+
     return 0;
 
 }
